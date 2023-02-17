@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "email": "sefathasan4@gmail.com",
+      "name": "RS Sefat",
+      "password": "sefarrs",
+      "id": 1
+    },
+    {
+      "email": "farhan@gamil.com",
+      "name": "Farhan Fuad",
+      "password": "farhanfuad@g",
+      "id": 2
+    },
+    {
+      "email": "lutfor@gmail.com",
+      "name": "Lutfor Rahman",
+      "password": "lutfar",
+      "id": 3
+    },
+    {
+      "email": "sopna@Gmail.com",
+      "name": "Sabita Alam Sopna",
+      "password": "sobita@1234",
+      "id": 4
+    },
+    {
+      "email": "farhan@gmail.com",
+      "name": "farhan",
+      "password": "220256",
+      "id": 5
+    },
+    {
+      "email": "moon@gmail.com",
+      "name": "moon",
+      "password": "moon",
+      "id": 6
+    },
+    {
+      "email": "gfdsfg",
+      "name": "dthyrty",
+      "password": "sgsfgd",
+      "id": 7
+    },
+    {
+      "email": "sdfsdf",
+      "name": "sdfsf",
+      "password": "fddsf",
+      "id": 8
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Onion",
+      "address": " Ghatail, bazar road",
+      "contact": "01154876257",
+      "id": 2
+    },
+    {
+      "name": "Burger Hatt",
+      "address": "Jharka",
+      "contact": "01716632399",
+      "id": 3
+    },
+    {
+      "name": "5Star",
+      "address": "Ghatail Collage Road",
+      "contact": "01154876258",
+      "id": 4
+    }
+  ]
+}
